@@ -15,7 +15,7 @@ Founder of Petryn, an AI-powered pet-care and management platform focused on mak
 - Data analysis and visualization
 - Exploratory analysis of public datasets, including avocado prices and Adult Census income
 - Credit risk analysis and credit card approval prediction
-- Full-stack application development
+- Full-stack development
 
 ## Technologies
 
